@@ -53,11 +53,11 @@ module.exports = {
       link: 'https://github.com/zjrwtx',
     },
     {
-      name: 'Telegram',
+      name: 'zhihu',
       link: '',
     },
     {
-      name: 'Telegram',
+      name: 'CSDN',
       link: '',
     },
     {
